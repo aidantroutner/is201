@@ -1,0 +1,31 @@
+#top{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: dimgrey;
+    height: 100px;
+    line-height: 100px;
+}
+.links{
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline;
+    text-align: right;
+}
+#abovedashboard{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+}
+#belowdashboard{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.dashboarddescription{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+#copyright{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
